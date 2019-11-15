@@ -1,0 +1,3 @@
+n1 = int(input("enter any number"))
+n2 = int(input("enter any number"))
+division = n1/n2
