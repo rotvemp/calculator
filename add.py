@@ -1,4 +1,7 @@
-n1=(input("enter a number"));
-n2=(input("enter a number"));
+def add(a,b)
+ return a+b
 
-print(n1+n2)
+n1= ("enter a number")
+n2= ("enter a number")
+
+print( addition add(n1,n2))
