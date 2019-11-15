@@ -1,9 +1,9 @@
 menu = {}
-menu['1']="Addition" 
-menu['2']="subtraction"
-menu['3']="multiplication"
-menu['4']="division"
-menu['5']="modulo"
+menu['1']="add" 
+menu['2']="subtract"
+menu['3']="multiply"
+menu['4']="divide"
+menu['5']="modulus"
 while True: 
   options=menu.keys()
   options.sort()
