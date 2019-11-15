@@ -20,6 +20,6 @@ while True:
     elif selection == '4': 
       print "divide"
     elif selection == '5':
-      print "modulo"
+      print "modulus"
     else: 
       print "Unknown Option Selected!" 
